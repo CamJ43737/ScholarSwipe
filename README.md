@@ -100,5 +100,5 @@ The system ensures learning remains engaging while avoiding addictive or harmful
 ### 📊 Analytics & Insights
 
 * Learning summaries for parents/educators
-* Screen-time monitoring
+* Screen-time monitoring and tracking
 * Anonymous data insights for improvement
